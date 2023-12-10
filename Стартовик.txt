@@ -1,0 +1,4 @@
+Выберите покемона
+Bulbasaur
+Charmander
+Squirtle
